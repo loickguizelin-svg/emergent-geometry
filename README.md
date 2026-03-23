@@ -20,9 +20,6 @@ L’objectif : tester une intuition, la formaliser, et la rendre reproductible.
   - reconstruire une géométrie émergente (MDS embedding),
   - mesurer la dimension effective.
 
-- `results/`  
-  Figures, matrices, embeddings et données générées lors des tests.
-
 - `docs/`  
   - *Working paper* (note de recherche)  
   - Résumé et explications conceptuelles
